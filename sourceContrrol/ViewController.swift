@@ -19,7 +19,9 @@ class ViewController: UIViewController {
     func hey(){
         print("now")
     }
-    
+    func rtta(){
+        print("hello")
+    }
     
 }
 
