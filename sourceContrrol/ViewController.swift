@@ -16,8 +16,7 @@ class ViewController: UIViewController {
         
     }
 
-    @IBAction func clickbutton(_ sender: Any) {
-    }
+    
     
 }
 
