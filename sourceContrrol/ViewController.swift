@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         print("now")
     }
     func rtta(){
-        print("hello")
+        print("subscribe now")
     }
     //adasdas
     
