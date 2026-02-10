@@ -5,6 +5,17 @@
 //  Created by Hassan Zubedat on 09/02/2026.
 //
 
+/*Git/github
+Clone = copying the repo locally
+Commit = (“save checkpoint”) on our current branch
+Staging = prepare changes for a commit
+Stash = save changes for later
+Push = send local commits to remote repo
+Pull = fetch remote commits to local repo
+*/
+
+
+
 import UIKit
 
 class ViewController: UIViewController {
