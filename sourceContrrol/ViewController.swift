@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         
     }
     func hey(){
-        print("now")
+        print("swift")
     }
     func rtta(){
         print("subscribe now")
