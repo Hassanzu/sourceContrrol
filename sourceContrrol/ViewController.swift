@@ -33,6 +33,9 @@ class ViewController: UIViewController {
     func rtta(){
         print("subscribe now!!")
     }
+    func rttaa(){
+        print("subscribe nowwwwwww!!")
+    }
     //adasdas
     
 }
